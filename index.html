@@ -62,11 +62,9 @@
                         <li>
                             <a href="#about">About</a>
                         </li>
-                    <!--
                     <li>
                         <a href="#stories">Stories</a>
                     </li>
-                -->
                 <li>
                     <a href="#give" class="give">Give</a>
                 </li>
@@ -217,6 +215,43 @@
         </div>
     </div>
 
+    <a name="stories"></a>
+    <div class="content-section-b">
+        <div class="container">
+            <div class="row">
+                <h2 class="section-heading"><a href="http://refugeeaidmission.com/stories.html"><strong>Stories from Iraq and Jordan</strong></a></h2>
+            </div>
+            <div class="row">
+                <div class="col-lg-3 col-sm-1">
+                </div>
+                <div class="col-lg-6 col-sm-10">
+                <div>
+                <h3 class="section-heading">Deported: Nasima's Story</h3>
+                    <p>Nasima has two babies, 1 year old and 3 years old. Her husband was deported last year because the Jordanian government is overloaded with refugees due to all the conflict in the Middle East.</p>
+                    <p class="click-to-toggle"><i><a>Read more</a></i></p>
+                        <div id="more" style="display:none;">
+                            <p>The government is trying to find ways of dealing with the crisis. Nasima and her husband fled to Jordan due to conflict in their country and after her husband’s deportation she is living alone in Jordan with no family and no income. He was able to contact her and told her he is in Egypt trying to find a way to reunite the family. He may try to come back into Jordan. 
+                            </p>
+                            <p>
+                            This woman is living in a run-down studio apartment in a slum area. She does her best to care for her babies and hopes that someday she can live in Canada or America with her family. 
+                            </p>
+                            <p>
+                            We visited her with a missionary in Jordan, and during the visit the missionary gave her testimony of how Jesus changed her life. Nasima called the missionary the day after our visit and said how much that visit encouraged her and how happy she was that someone cared for her. It was a cold cup of water, a small act of compassion, in Jesus’ name. 
+                            </p>
+                            <p><i>
+                                <a href="http://refugeeaidmission.com/stories.html">Read more stories from Iraq and Jordan at the stories page.</a>
+                            </i></p>
+                        </div>
+                </div>
+                </div>
+                <div class="col-lg-3 col-sm-1">
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
     <!-- /.content-section-b -->
     <a name="give"></a>
     <div class="content-section-b">
@@ -307,7 +342,18 @@
 
             <!-- Bootstrap Core JavaScript -->
             <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+            <script>
+            var button = document.querySelector('.click-to-toggle');
+            button.addEventListener('click', function (event) {
+                var next = this.nextElementSibling;
+                if (next.style.display == "none") {
+                    next.style.display = "block";
+                    this.style.display = "none";
+                } else {
+                    next.style.display = "none";
+                }
+            });
 
+            </script>
         </body>
-
-        </html>
+    </html>

@@ -1,0 +1,146 @@
+Stories for Website
+************
+
+Brother Beheaded
+************
+
+One of the men Terry met in Iraq was driving an oil truck from Baghdad to Mosul. He is a Christian and his name is Bishara; he was with his brother delivering oil when ISIS pulled them over. ISIS beat them brutally and Bishara’s arm is left dangling; he needs an operation. Bishara’s brother was taken by ISIS but Bishara was released. He was told by ISIS that they would let his brother go if he sent them 50,000 dollars in the next 24 hours. The next day Bishara was texted a picture of his brother’s severed head because the ransom money was not sent. Bishara has four children, cannot work due to the injury and is living in a refugee camp. Each refugee has a story. They need prayer. They are scared of IS, they are displaced living in tents or mobile home type structures called caravans. They need the basics of life, food, a way to work, housing, etc. Please pray for these people.
+
+Islam Let Me Down
+************
+
+“My name is no longer Mohmoud, do not call me Mohmoud. I now go by Memo.” On Terry’s first trip to Iraq he met Memo, formerly named Mohmoud from Syria. Memo is a young Syrian who was on his honeymoon when ISIS came into the city. He fled with his bride over the border into Turkey. They were stranded as refugees in Turkey for several months when Turkey opened their borders and allowed ISIS to enter the camps. Memo and his wife then fled into Northern Iraq. This is where Terry met him on his first trip, staying in a local Iraqi church that allowed refugees to stay in its building. He and his wife were Muslim, but this church opened its heart to many Muslim refugees and cared for them. These Muslims had nowhere to go and nothing to do, so when the church met for its worship services they stayed and listened. They had never seen anyone worship God in this manner.
+
+Over the months Memo and his wife spent a lot of time with one of the pastor’s in the church. Through discipleship, Bible study and observing Christian worship, they decided to follow Jesus. They were Syrian (a Muslim country) and had not been protected from ISIS (a radical Muslim organization) that they saw kill and destroy, they were terrorized by Turkey (a Muslim country) and then escaped into Iraq (another Muslim country) that did not care for them. The only care and love they found was in this Christian church in Iraq. This love impacted them. Love is more powerful than hate. Love will destroy our enemy, Satan. Love conquers.
+
+Now is not the time to retreat. Now is the time to advance, and for us that means we are to love even more fiercely as the times become more threatening. Love is our weapon and it is the most powerful weapon. The world does not understand this and that is why there are so many different opinions of how to combat situations. The world thinks our wisdom is foolish. God knows better.
+
+Jesus Christ hates sin in people, and the cross is the measure of his hatred (from Oswald Chambers). The death of Jesus on the cross was horrific suffering and it was costly. Our sin is the cause, Jesus’ love and obedience on the cross satisfies our just and holy God. We can be given forgiveness because it was bought at a huge cost to God the Father. This is why Jesus was born; His birth is a declaration of our need for forgiveness. Our selfish, inhospitable hearts needed a Savior. When we respond to Jesus’ work on the cross and thank Him for forgiveness we want others to know Jesus too. This is our desire for the refugees, but how can they hear without someone to tell them?
+
+Ancient Christians Saved
+************
+
+“You can take our gold, silver, homes and everything else but you will not touch the heel of any of the Qaraqosh women!” responded the people of Qaraqosh when ISIS came to town. ISIS called the Christian village of Qaraqosh situated just outside of Mosul on the Nineveh plain and ISIS warned them that they were coming in to pillage and destroy their homes. The people of Qaraqosh consider themselves to be some of the oldest Christians because they converted to Judaism when Jonah came to call Nineveh to repentance and then continued to honor God by following Jesus. When ISIS came to their village the people fled in a great exodus (think of the Biblical story of Moses leading the people from Egypt). They did not flee as cowards but conquerors. They left everything and in the process found what was important: faith and family. Today they live in a refugee camp on the outskirts of Erbil in Iraq and feel that they have battled ISIS and won. ISIS took their material possessions, but the people of Qaraqosh saved and protected (by the grace of God) what is most important.
+
+Refugee Churches Begin
+************
+
+An Evangelical house church began after a refugee, Abu Osam, heard the gospel and began to live out his faith. He was mentored by a local believer and after a year started his own church. This house church has about 40 people who attend weekly. Abu Osam put together a list of 300 of the poorest Christian families in the refugee camps. He does humanitarian outreach by providing food, toiletries, cleaning supplies, medical help, etc. to these people. Not only does he provide physical assistance but he also mentors young believers and gives the gospel. Terry’s team was able to encourage Abu Osam by helping to buy supplies for these 300 poor Christian refugee families.
+
+The Cross Our Last Defense
+************
+
+The cross is the last defense for the Christians in Iraq. They place crosses in front of their caravans on the outskirts of Erbil. The Christian refugees feel that they await death. As Russia and Israeli forces drive out ISIS in Syria, the situation in Iraq destabilizes. The tension is rising and the Christians have responded. They post the cross outside of their tents and caravans proclaiming their faith. This targets them for death and is a daring act of defiance.
+
+Dead Baby
+************
+
+While walking through an Iraqi Christian refugee camp we were invited into a caravan and we met a family. We entered and there was a husband, wife, young son, and daughter around 8 years old. Our ministry partner began to give the gospel and they spoke of their experience fleeing Mosul. They had lived near a church in Mosul. The church was bombed and the explosion hit their house too. Their son was killed in the blast and their daughter was wounded in the head. She has a large scar on her head. They showed us a picture of their dead son. It was gruesome and sad; a wounded dead baby boy. Many refugees and displaced people have experienced violence at the hand of ISIS and lost loved ones.
+
+Jesus Saved Me
+************
+
+Three young men from Kobane, Syria who were refugees from a Muslim background are now Christians helped us purchase and distribute aid to their camp outside of Erbil Iraq. Amjad was a young man who had gone to university in Lebanon. While in Lebanon a Christian had given him a Bible; he read it and then became a Christian. Saif had been part of the PKK, a Kurdish army in Syria. He was on duty and near the Turkish border when he got lost and separated from his unit. He was in a dangerous place and was frightened. Then Jesus came to him in a dream and showed him the way out of danger. He became a Christian after this dramatic vision and rescue. He told me that Jesus saved him! Today he shares Jesus with his Muslim refugee camp.
+
+God Doesn’t Waste Our Time
+************
+
+The church in Erbil, Iraq is overwhelmed trying to meet the needs of over one million refugees and displaced people. When the refugees and displaced people arrive they come into the city seeking refuge from ISIS with nowhere to go. They end up sleeping on the streets and sidewalks and scrounging for food. They usually arrive in groups, families and towns that have been forced to flee ISIS. Terry and I visited with local Christians and churches in our time there. We met, Noor, she is a pharmacist from Erbil. She spends her free time helping refugees and displaced people.
+
+I asked her about one of the elderly men I saw at the church. She told me this story:
+
+*She had been visiting that elderly man for 4 years. He was a refugee from Baghdad, he had fled from war with his daughter. Some people from the church visited the refugees and distributed aid and the gospel. She began to visit him, and he never spoke. For four years she continued to visit this man and his daughter. For the four years she visited him, he never spoke. Others at church told her it was a waste of time, but she felt like God wanted her to continue to visit. After four years, he spoke. He asked for a Bible. He asked to visit the church. Now he preaches, goes on visits, distributes Bibles and is a part of the church. Praise God, he never wastes our time!*
+
+The Greatest Treasure
+************
+
+Wisam was a veterinarian for the Iraqi government inspecting farms and food. He made millions of dollars, had a large home, wife and two daughters. They are Christians from Qaraqosh. Today they are among the over one million displaced people living in Erbil Iraq. When ISIS came to their hometown, Wisam did not want to leave. He had his large home and many possessions, he did not want to leave them behind. Thankfully his neighbors cared enough about Wisam and his family to come by and force them by threatening violence to leave their home just hours before ISIS invaded. ISIS came in and destroyed the town and killed those left behind. Wisam left everything behind, but his life and that of and his family were spared. In the midst of the despair his family turned toward their ancient faith in Christianity and found that Jesus was with them. Today they will tell you they found the greatest treasure.
+
+No Future
+************
+
+In his mid-twenties, Cezar is a Christian displaced person from Qaraqosh Iraq. He now lives with over a million other displaced people and refugees in an area near Erbil Iraq. He lives in a caravan with his family. Before ISIS came to his town and destroyed it, he had a bright future. His dad had a business and he was planning to work with his father and get married. Then ISIS came and Cezar can’t see a future. He does odd jobs to help, but his family home and business are gone. He is waiting for ISIS to leave his hometown so that he can go back and rebuild, but in the waiting he has lost hope.
+
+Jordan:
+
+Refugee Begins School in Home: Giving Back
+************
+
+In Jordan we went with missionaries who have lived in Jordan for eight years to visit Syrian Muslim refugees from Homs, Abu Rabie and his wife and young son. The missionary and his church have been visiting them every two weeks for the past 4 years. They are new believers and want to be baptized. His wife is literate and decided because she was helped by this missionary and his church that she should help others too. She has begun working to help Syrian refugee children catch up in their education. The children are allowed to go to school after the Jordanians get out of school at 1pm. The go from about 1:30-3:30pm each day. They are very behind in their education. She teaches at the school over 100 students and has older teens who are severely behind come to her house at night and she teaches them in her living room. She needs books, and notebooks, and supplies. She has about 25 students in her home.
+
+Unity in the Church
+************
+
+In Marka, Jordan we visited a large church.
+
+We met with the pastor and he showed us his facility and ministry there. They have a workshop employing Iraqi Christian refugees. They make tiles with the noon on it, sew noons on caps and shirts. They have a barber shop and salon, a dental facility with 2 chairs, a message and physical therapy for women with 2 rooms, sewing training that gives the machines to the ladies after training for 2 months, give money for micro businesses. They have storage rooms for goods and literature to distribute to refugees and have visited 13,000 families. They get funding and donations from 20 organizations and churches. They have a school for refugees with 50 students and room for more.
+
+There are four teams that go out daily to visit refugees in the area. They make about 4 visits a day and are all volunteers from the local churches. They pick up aid from this large church and meet there. Then they take a journal recording what they give and share. What a beautiful example of Christians working in unity.
+
+Bombed in Baghdad
+************
+
+In the Medicine Sans Frontiers (Doctor’s without Borders) Hospital in Marka. We visited Im Hala and Hala, Muslim’s from Iraq. Hala is 17 years old and was injured in a bomb explosion in Baghdad. She has burns on her arm, chest, and neck and her arm is injured. She has been in the hospital for 6 months. She requires skin grafting, etc. Her brother and father are still in Iraq. They left for the medical help. Many refugees are seeking medical attention.
+
+How Can They Hear Without a Preacher?
+************
+
+How can they hear if someone doesn’t tell them? Mahdia asked a refugee pastor when we were in Jordan, “I have never heard this before! How could I know if someone did not tell me?” Mahdia heard for the first time that Jesus was born of a virgin, lived a perfect life, and died on a cross as a perfect sacrifice for her sin and was raised from the dead. She was amazed. She is a Sudanese Muslim refugee with 10 month old triplets. She traveled across the city because a friend told her there was a Sudanese Church that cared for refugees and helps them. She went seeking help because the triplets cost a lot and she doesn’t have enough money for the diapers and formula. This pastor had not seen her living conditions so he wanted to visit her. We went with him to her home to visit her. Mahdia lives in a one room apartment. She asked us to pray for God’s provision and she was amazed to hear about Jesus.
+
+Obstacles and Persistence 
+************
+
+Terry sat near Khamis, a 17 year old Sudanese refugee. He had not been in school for four years. He knows English and Arabic. He said in Sudan he saw war everywhere, guns, gunfire, war is normal there; he got used to it. His mother helped his sister and him get to safety in Jordan, but then had to return to Sudan because she had other children there. His father is dead. A missionary in Jordan spoke to a local Seventh Day Adventist school nearby to see if they would allow Khamis to enroll. At first they said maybe then they said no. The missionary persisted and persuaded and then they said they would allow him to enroll. Next the missionary had to get permission from the ministry of Education. The ministry asked for paperwork and Khamis had none. Then the missionary persisted and finally spoke to the head of the Ministry of Education and Khamis was accepted. Khamis will begin 8th grade level in January. He is happy and thankful to God. He and his sister now attend church. His sister works at a salon. She is around 20. There are many difficult situations and obstacles that refugees need help overcoming. Refugee Aid Mission helps those in Jordan who reach out to refugees and we give aid to the refugees.
+
+Noons and Hope
+************
+
+We met with an Iraqi Christian refugee, Wisam, whose child attends a school started by a church in Jordan to help refugees. He is from the Qaraqosh area. We showed him pictures of people we had met from the same area in Erbil, Iraq. He recognized one of the men from the Camp in Erbil. Wisam was an engineer and had a good life in Iraq before the war. He fled ISIS with his wife and two children two years ago. He heard about the church in Marka when he got to Jordan, but was reluctant to visit it because he thought that Evangelicals were a cult. He did decide to visit and liked the teaching so he continued to attend. Now he works as an accountant for the refugee ministry there at the church.
+
+Wisam’s wife creates the ideas for jewelry. They have a workshop at the church where they make handmade jewelry; on many of the necklaces they put the Arabic letter Nn (noon) as a symbol of their persecution. It represents Jesus the Nazarene. ISIS paints this symbol on the Christians’ homes before they come in to take them over. The Christians flee for their lives when they see the symbol on the doorways and become refugees. Many of the Christian Iraqi refugees hope to emigrate to Canada, America, Australia, or Europe. The church gave us over 500 necklaces to sell. Refugee Aid Mission will take the money back to them when we visit this spring. Providing a way for the refugees to have an income gives them hope and purpose; they do not want to sit by idly day after day.
+
+Missing Son
+************
+
+Terry, myself, and a missionary lady went with a local pastor and to visit a Muslim refugee family from Homs, Syria. The pastor met the family about three years ago when the family lived close to the church. They would send their children to his church and the children’s program on Saturday. The family consists of: grandfather Abu Hatim, Im Hatim the grandmother, their daughter in law, and three grandchildren, Reem is around 8, Akhmed is around 5, and the oldest Amani was in school. Hatim, their son, is missing in Syria. They fear that their son is dead due to the war. They fled almost four years ago from war and their son was missing. Abu Hatim had a stroke recently and could not use his right hand. He also had two blood clots. He was laying in the living room and was in pain. He would shake and randomly shout out. Im Hatim has been having gall bladder attacks and is scheduled to get her gall bladder out in a week. She has had trouble for two years with her gall bladder. The daughter in law was shy and did not come out to visit. We were able to pray with them about their needs and health.
+
+We spoke for a long time to this family about Jesus we shared the story of Jesus and the children relating it to the pastor’s work at the church. Next the pastor spoke a lot about Jesus. He talked about the death and the resurrection power of Jesus. He spoke about how they needed to trust Jesus and thank Him. They listened and agreed. Then we prayed for them. The pastor powerfully and clearly told this family about Jesus. Refugee Aid Mission encourages those working with refugees by affirming their work and giving financial aid to help them do their work better.
+
+Guitars for Jesus
+************
+
+During a visit to Jordan we went to watch a missionary teach music lessons to youth. He has about 14 students that come every week for guitar and keyboard lessons. Another girl teaches the keyboard. We listened and watched. He teaches a free class to refugees and teaches the music in a group using worship music. After the class he gave us a plaque of appreciation for helping to buy the guitars for the lessons.
+
+Refugee Aid Mission is able to encourage missionaries in their work with refugees because many peope give. We are grateful to be a part of encouraging missionaries in their work and being able to purchase guitars for his ministry there in Amman. This missionary uses worship music as a way to introduce Biblical truths to refugees when he visits their homes, he uses music in his youth services for refugees, he uses music when he has the youth group teach and present to refugee children in Mafraq, and he teaches these lessons on Fridays. During our last visit we asked what he needed most for his ministry and he told us he needed guitars. We gave him money for guitars and in November he showed us the guitars he purchased and then we went to his classes and saw what God has done through this missionary in this music ministry.
+
+Giving Back
+************
+
+Refugee Aid Mission is grateful for all those who give. Your giving which has provided necessities for many refugees and their families. For example in November we visited with a pastor and visited with his family in their home in Amman. When we visited in May we had gone on many home visits with this pastor visiting refugees. This time we met his wife Nana, infant daughter Collette, and son Mubara who is 3 years old; they live in a 3 room apartment (literally 3 rooms). We set in their bedroom to talk, the other room is a very small kitchen with a bathroom. Christians in Sudan are persecuted. The pastor and his wife left Sudan 4 years ago. He had death threats and had been in hiding for 6 months prior to leaving. He would not cooperate with the government. He had been married for 2 weeks when he and his wife fled to Jordan.
+
+He was able to get a student visa and studied in Jordan for a masters and is now going to JET (Jordan Evangelical Theological) school to get a Masters in Divinity. They gave him a scholarship plus a stipend. But it does not cover all his expenses. He lacks about 100 JD a month, they do not have enough for groceries some weeks, but he still does ministry reaching out to other refugees. We gave him some money to help. He continues to be a part of the local church and does visits to Muslim refugees. They hope to emigrate, but do not know where. He considers going back to Sudan, but it is too unstable and unsafe now. Refugee Aid Mission encourages refugees who are helping other refugees by coming alongside them in their work and giving financial assistance.
+
+Blood
+************
+
+Blood covers the Bible. The topic of blood begins when sin enters the world. Abel’s blood speaks out demanding justice, God instructs His people to use blood over their doorways to save them from the Angel of Death, and later He instructs yearly blood sacrifices of goats and lambs to maintain a relationship with him. In the New Testament we understand that these bloody sacrifices pointed to the crucifixion of Jesus and His shed blood as a sacrifice, a way for justice, and to save the world from sin. Life is in the blood and our lives need pure blood to cleanse us. The sin needs cleansing.
+
+Terry shared this idea with Backri, a Sudanese refugee, who lives with his family in Jordan. Backri suffers from kidney failure and is on dialysis three days a week. Our first morning in Jordan we went with the pastor of the Sudanese International Church and a missionary, who is originally from Senegal but lived many years in the United States and is sent out by an organization in the States. The four of us went to visit refugee families who have visited their church and who are the poorest of the poor. We took groceries with us to give the families.
+
+After visiting and listening to Backri for some time, talking about blood types, and kidney dialysis, Terry spoke about Jesus’ blood cleansing us. He related it to the idea of blood sacrifice and Backri’s health issues. Backri listened intently and was not argumentative or talkative. He just listened. When Collette asked him what he thought about all Terry said; he simply replied that it is good,”quayis.” She tried to get him to elaborate, but he would not. Please pray for Backri and his family to know Jesus as their Savior.
+
+Backri told us about when his baby was born he was being deported from Jordan. His wife was 8 months pregnant and they were being deported, they were in a line at the airport. Then she began having pain and was taken to the hospital. He tore out her leads after she was admitted and they ran out of the hospital to avoid being deported. Her baby was born a month later with no complications, but they had to go to the same hospital and the same nurse attended them. However, the first time they went they had not filled out any admission papers yet, so they were not recorded. The nurse did recognize them, but he said that all Sudanese look alike so it must have been someone else.
+
+The Jordanian government struggles to care for the growing number of refugees. They have received refugees since the Palestinians in the 1940’s. They have refugees from all over the Middle East and Africa. There are many opportunities to share Jesus with refugees because they are not Jordanian and we can openly evangelize to them there. Pray for the Christians working there who faithfully reach out and share Jesus with the refugees living amongst them. Refugee Aid Mission encourages and gives aid to both the refugees and those working faithfully with refugees in Jordan.
+
+Refugee Widows
+************
+
+Missionaries from Argentina help with refugee outreach in Amman Jordan. They became involved in the work in Mafraq with a local pastor and will travel to Mafraq and visit refugees several days a month. In Mafraq they met a group of Syrian Muslim refugees who are widows and their children. This past Christmas they wanted to share the Christmas story with these widows and they wanted to help these widows with some necessities: space heaters, mattresses, and food.
+
+We were able to use some funds from Refugee Aid Mission, together with others, and the widows were given a Christmas meal, the heaters and mattresses. The missionaries shared about the miraculous birth of Jesus and gave the widows the gospel in addition to the necessities. What a wonderful way we can serve refugees together! Thank you for giving to Refugee Aid Mission.
+
+Young Woman Studying Medicine
+************
+
+After we distributed the food we were invited into a small room for tea with a family. The room was about 12’X20’ and the lady said that only 10 people slept in that room. The oldest daughter was named, Ranya, and had 2 years of medical school left when her family had to flee. She tried to enroll at the University of Erbil, but she cannot get the appropriate paper work. Many refugees and displaced people find themselves in similar positions. They cannot get work, enroll in school, continue their education or move because they have no paperwork. They all fled with only their lives when ISIS came in to their towns.
