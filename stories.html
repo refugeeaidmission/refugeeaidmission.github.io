@@ -313,6 +313,9 @@
 <!-- Bootstrap Core JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <script>
+$('.navbar-collapse a').click(function(){
+    $(".navbar-collapse").collapse('hide');
+});
 var acc = document.getElementsByClassName("accordion");
 var i;
 for (i = 0; i < acc.length; i++) {
