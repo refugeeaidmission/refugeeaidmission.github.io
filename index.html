@@ -35,6 +35,114 @@
             color: #92D3CA;
         }
         </style>
+        <style>/* reset */
+        #fs-frm input,
+        #fs-frm select,
+        #fs-frm textarea,
+        #fs-frm fieldset,
+        #fs-frm optgroup,
+        #fs-frm label,
+        #fs-frm #card-element:disabled {
+          font-family: inherit;
+          font-size: 100%;
+          color: inherit;
+          border: none;
+          border-radius: 0;
+          display: block;
+          width: 100%;
+          padding: 0;
+          margin: 0;
+          -webkit-appearance: none;
+          -moz-appearance: none;
+        }
+        #fs-frm label,
+        #fs-frm legend,
+        #fs-frm ::placeholder {
+          font-size: .825rem;
+          margin-bottom: .5rem;
+          padding-top: .2rem;
+          display: flex;
+          align-items: baseline;
+        }
+
+        /* border, padding, margin, width */
+        #fs-frm input,
+        #fs-frm select,
+        #fs-frm textarea,
+        #fs-frm #card-element {
+          border: 1px solid rgba(0,0,0,0.2);
+          background-color: rgba(255,255,255,0.9);
+          padding: .75em 1rem;
+          margin-bottom: 1.5rem;
+        }
+        #fs-frm input:focus,
+        #fs-frm select:focus,
+        #fs-frm textarea:focus {
+          background-color: white;
+          outline-style: solid;
+          outline-width: thin;
+          outline-color: gray;
+          outline-offset: -1px;
+        }
+        #fs-frm [type="text"],
+        #fs-frm [type="email"] {
+          width: 100%;
+        }
+        #fs-frm [type="button"],
+        #fs-frm [type="submit"],
+        #fs-frm [type="reset"] {
+          width: auto;
+          cursor: pointer;
+          -webkit-appearance: button;
+          -moz-appearance: button;
+          appearance: button;
+        }
+        #fs-frm [type="button"]:focus,
+        #fs-frm [type="submit"]:focus,
+        #fs-frm [type="reset"]:focus {
+          outline: none;
+        }
+        #fs-frm [type="submit"],
+        #fs-frm [type="reset"] {
+          margin-bottom: 0;
+        }
+        #fs-frm select {
+          text-transform: none;
+        }
+
+        #fs-frm [type="checkbox"] {
+          -webkit-appearance: checkbox;
+          -moz-appearance: checkbox;
+          appearance: checkbox;
+          display: inline-block;
+          width: auto;
+          margin: 0 .5em 0 0 !important;
+        }
+
+        #fs-frm [type="radio"] {
+          -webkit-appearance: radio;
+          -moz-appearance: radio;
+          appearance: radio;
+        }
+
+        /* address, locale */
+        #fs-frm fieldset.locale input[name="city"],
+        #fs-frm fieldset.locale select[name="state"],
+        #fs-frm fieldset.locale input[name="postal-code"] {
+          display: inline;
+        }
+        #fs-frm fieldset.locale input[name="city"] {
+          width: 52%;
+        }
+        #fs-frm fieldset.locale select[name="state"],
+        #fs-frm fieldset.locale input[name="postal-code"] {
+          width: 20%;
+        }
+        #fs-frm fieldset.locale input[name="city"],
+        #fs-frm fieldset.locale select[name="state"] {
+          margin-right: 3%;
+        }
+        </style>
         <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32"/>
         <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16"/>
     </head>
@@ -142,7 +250,9 @@
                     <p>Al Bayt began as a youth outreach/coffee and tutoring center in Bethlehem when Terry and Melissa saw the need for youth work where 70% of the population was under the age of 20. Due to conflict and the influx of refugees in Jordan, they began leading teams and doing outreach work serving refugees. Al Bayt now has three branches: Refugee Aid Mission, Markaz Community Development, and Family Aid.</p>
                     <p>Today Terry and Melissa live and work in the Middle East. They facilitate training and learning with Markaz Community Development, support teams visiting from the United States, and coordinate refugee relief work and home visits to refugee families with local churches and organizations.</p>
                     <p>Contact Terry and Melissa at <a href="mailto:refugeeaidmission11@gmail.com">refugeeaidmission11@gmail.com</a>.</p>
-                    <p><a type="button" class="btn btn-primary btn-lg" href="https://meigiving.org/donate" target="_">Support Terry and Melissa</a></p>
+                    <br>
+                    <p class="lead"><b>Advisors — Jayne and Rick Brekelbaum</b></p>
+                    <p>Jayne and Rick Brekelbaum have had a full life serving the Lord. Their retirement has been a re-hirement by the Lord. They are active in their church community, attending conferences, teaching/mentoring for CEO Global, training for ION, serving on the board of Pure Charity, hosting many small groups, and more. They currently live in Northwest Arkansas and serve RAM as advisors.</p>
             </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
                     <img class="img-responsive" src="img/image6.jpg" alt="">
@@ -379,7 +489,11 @@
                     <p>If you would like to give to the Prison Ministry, you can give at: <a href="https://www.global-outfitters.org/prison" target="_blank"> global-outfitters.org/prison</a></p>
                     <p>If you would like to give to the Family Aid Ministry, you can give at: <a href="https://www.global-outfitters.org/refugee" target="_blank"> global-outfitters.org/refugee</a></p>
                     <br>
-                    <p> To give to Terry and Melissa, visit <a href="https://meigiving.org/donate" target="_blank">MEI</a> and use TR3506 as the designation code.</p>
+                    <p> To give to Terry and Melissa directly, use one of these options at meigiving.org. Use Designation Code <b>TR3506</b>.</p>
+                    <ul>
+                        <li><a href='https://meigiving.org/donate-associate' target='_blank'>Donate via card or eCheck</a></li>
+                        <li><a href='https://meigiving.org/donate-paypal' target='_blank'>Donate via PayPal</a></li>
+                    </ul>
                     <br>
                     <!--
 
@@ -424,7 +538,20 @@
                 </div>
                 <a name="contact"></a>
                 <h1 class="section-heading">Contact Terry and Melissa</h2>
-                    <p>Email us at <a href="mailto:refugeeaidmission11@gmail.com">refugeeaidmission11@gmail.com</a>.</p>
+                    <p>Email us at <a href="mailto:refugeeaidmission11@gmail.com">refugeeaidmission11@gmail.com</a>, or contact us using the form below.</p>
+                    <p>
+                        <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xeqvwrwe" method="post">
+                          <fieldset id="fs-frm-inputs">
+                            <label for="full-name">Full Name</label>
+                            <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
+                            <label for="email-address">Email Address</label>
+                            <input type="email" name="_replyto" id="email-address" placeholder="email@domain.com" required="">
+                            <label for="message">Message</label>
+                            <textarea rows="5" name="message" id="message" placeholder="Your message here" required=""></textarea>
+                            <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+                          </fieldset>
+                          <input type="submit" value="Submit">
+                    </p>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
                     <img class="img-responsive" src="img/terry-and-melissa2.jpg" alt="">
